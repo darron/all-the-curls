@@ -19,3 +19,7 @@ And on Kubernetes:
 ```bash
 kubectl run curling-rink --image=darron/all-the-curls -i --tty --rm -- sh
 ```
+
+For `grpcurl` docs - take a look here:
+
+https://github.com/fullstorydev/grpcurl
